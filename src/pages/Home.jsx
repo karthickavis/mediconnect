@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Link } from 'react-router-dom';
 import WhyChooseUs from '../components/WhyChooseUs';
 import Services from '../components/Service';

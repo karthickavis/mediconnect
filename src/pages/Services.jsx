@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { FaStethoscope, FaHeartbeat, FaUserMd, FaFlask } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
 

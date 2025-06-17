@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { FaUserMd, FaClock, FaMobileAlt, FaShieldAlt } from 'react-icons/fa';
 
 export default function WhyChooseUs() {

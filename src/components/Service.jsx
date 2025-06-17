@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { FaStethoscope, FaFlask, FaBriefcaseMedical, FaAmbulance } from 'react-icons/fa';
 
 export default function Services() {
